@@ -1,2 +1,4 @@
-# ola mundo
- primeiro repositório versionado Git Githu
+# Olá, mundo!
+ primeiro repositório versionado Git Github
+
+ repositório criado durante uma aula ao vivo
